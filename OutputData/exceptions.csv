@@ -1,0 +1,3 @@
+ISIN,Ticker,InstrumentName,InstrumentType,Currency,Exchange,Price,Vendor,valid_isin,valid_price,valid_currency
+,GOOG,Alphabet Inc.,Communication Services,USD,NMS,192.96,VendorC,False,True,True
+USC7RX5GXI9M,WMT,Walmart Inc.,Consumer Defensive,USD,NYQ,-5.0,VendorC,True,False,True

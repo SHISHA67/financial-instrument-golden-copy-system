@@ -1,0 +1,503 @@
+ISIN,Ticker,InstrumentName,InstrumentType,Currency,Exchange,Price,Vendor
+USRYBZH2I7Z5,AAPL,Apple Inc.,Technology,USD,NMS,257.0349,VendorB
+USYNBSXY167A,NVDA,NVIDIA Corporation,Technology,USD,NMS,136.047,VendorB
+US96LMQW36KB,MSFT,Microsoft Corporation,Technology,USD,NMS,440.966,VendorB
+USLEHAHE82Y9,AMZN,"Amazon.com, Inc.",Consumer Cyclical,USD,NMS,227.1692,VendorB
+USZSDDYB7LKL,GOOGL,Alphabet Inc.,Communication Services,USD,NMS,193.3241,VendorB
+US5AKMG3QK2D,GOOG,Alphabet Inc.,Communication Services,USD,NMS,194.8896,VendorB
+US2I4EH9RWYK,META,"Meta Platforms, Inc.",Communication Services,USD,NMS,591.1025,VendorB
+USPHBD2E8D88,TSLA,"Tesla, Inc.",Consumer Cyclical,USD,NMS,425.2706,VendorB
+USLZAY2A0IGF,AVGO,Broadcom Inc.,Technology,USD,NMS,222.9979,VendorB
+USWHSOL6A3VW,BRK-B,Berkshire Hathaway Inc.,Financial Services,USD,NYQ,457.73199999999997,VendorB
+USC7RX5GXI9M,WMT,Walmart Inc.,Consumer Defensive,USD,NYQ,93.16239999999999,VendorB
+USW8PCPESNFI,LLY,Eli Lilly and Company,Healthcare,USD,NYQ,775.4376,VendorB
+USL9OBR4O8UE,JPM,JPMorgan Chase & Co.,Financial Services,USD,NYQ,239.976,VendorB
+USD3XV3J0ALT,V,Visa Inc.,Financial Services,USD,NYQ,320.8871,VendorB
+US6EOWIVDPQN,MA,Mastercard Incorporated,Financial Services,USD,NYQ,533.3103,VendorB
+USAS3HWADOGL,ORCL,Oracle Corporation,Technology,USD,NYQ,171.3566,VendorB
+USVDN1N799VU,XOM,Exxon Mobil Corporation,Energy,USD,NYQ,106.9287,VendorB
+USM8YVF2B23C,UNH,UnitedHealth Group Incorporated,Healthcare,USD,NYQ,505.1313,VendorB
+US0SNCVTULEN,COST,Costco Wholesale Corporation,Consumer Defensive,USD,NMS,963.6107000000001,VendorB
+USBXODMQE335,PG,The Procter & Gamble Company,Consumer Defensive,USD,NYQ,169.7406,VendorB
+UST9ARLYFTJ7,HD,"The Home Depot, Inc.",Consumer Cyclical,USD,NYQ,396.526,VendorB
+USVYX1OGK3FJ,NFLX,"Netflix, Inc.",Communication Services,USD,NMS,918.1405,VendorB
+US4CHP2N1H99,JNJ,Johnson & Johnson,Healthcare,USD,NYQ,145.9147,VendorB
+USOAX5G6LOJJ,BAC,Bank of America Corporation,Financial Services,USD,NYQ,44.6117,VendorB
+USU3TH5AMSGG,CRM,"Salesforce, Inc.",Technology,USD,NYQ,347.0865,VendorB
+USN1Z1TGKLH8,ABBV,AbbVie Inc.,Healthcare,USD,NYQ,177.3358,VendorB
+USNCB5RC1EAX,KO,The Coca-Cola Company,Consumer Defensive,USD,NYQ,63.1755,VendorB
+USKXCIXID2AG,TMUS,"T-Mobile US, Inc.",Communication Services,USD,NMS,222.5131,VendorB
+US9A7E9MF2J1,CVX,Chevron Corporation,Energy,USD,NYQ,144.2785,VendorB
+USBS22OF7RPJ,MRK,"Merck & Co., Inc.",Healthcare,USD,NYQ,99.0305,VendorB
+USJ73Z0H1P97,WFC,Wells Fargo & Company,Financial Services,USD,NYQ,71.0434,VendorB
+USA4WBCBU1WX,CSCO,"Cisco Systems, Inc.",Technology,USD,NMS,59.1052,VendorB
+USBE9UPHSKHQ,ACN,Accenture plc,Technology,USD,NYQ,370.0337,VendorB
+USQT20P6FAVQ,NOW,"ServiceNow, Inc.",Technology,USD,NYQ,1102.1625,VendorB
+USOT54LLYRFN,AXP,American Express Company,Financial Services,USD,NYQ,301.63649999999996,VendorB
+USW7VS1UNCI2,MCD,McDonald's Corporation,Consumer Cyclical,USD,NYQ,295.6068,VendorB
+USSO5HGA9537,PEP,"PepsiCo, Inc.",Consumer Defensive,USD,NMS,154.31789999999998,VendorB
+US6GZJ4MBL9I,BX,Blackstone Inc.,Financial Services,USD,NYQ,172.54840000000002,VendorB
+USOD56V8ZLWU,IBM,International Business Machines Corporation,Technology,USD,NYQ,225.5936,VendorB
+USU9IWIBWFZK,DIS,The Walt Disney Company,Communication Services,USD,NYQ,113.1503,VendorB
+USZC06A2XR0K,LIN,Linde plc,Basic Materials,USD,NMS,428.55310000000003,VendorB
+USWPIT26YHV1,TMO,Thermo Fisher Scientific Inc.,Healthcare,USD,NYQ,529.2905,VendorB
+US9IGGTP4338,MS,Morgan Stanley,Financial Services,USD,NYQ,124.6744,VendorB
+USISYIJU5HO6,ABT,Abbott Laboratories,Healthcare,USD,NYQ,115.37230000000001,VendorB
+USRZYDTRL4GM,ADBE,Adobe Inc.,Technology,USD,NMS,451.6417,VendorB
+USWVYZ28BBQZ,AMD,"Advanced Micro Devices, Inc.",Technology,USD,NMS,120.40209999999999,VendorB
+USAI5SNNQCN9,PM,Philip Morris International Inc.,Consumer Defensive,USD,NYQ,125.4622,VendorB
+USRIGQXX8GNM,ISRG,"Intuitive Surgical, Inc.",Healthcare,USD,NMS,529.6742999999999,VendorB
+USCHF7LMF91H,PLTR,Palantir Technologies Inc.,Technology,USD,NMS,81.35549999999999,VendorB
+USVJIC7UILX3,GE,GE Aerospace,Industrials,USD,NYQ,170.0537,VendorB
+USKTMQ9IO3RV,INTU,Intuit Inc.,Technology,USD,NMS,649.8239,VendorB
+USKID18NK7UD,GS,"The Goldman Sachs Group, Inc.",Financial Services,USD,NYQ,571.7610000000001,VendorB
+USOMDJJXXSHN,CAT,Caterpillar Inc.,Industrials,USD,NYQ,369.7004,VendorB
+USDCVZL7Y79A,TXN,Texas Instruments Incorporated,Technology,USD,NMS,188.7387,VendorB
+USJQ0C6BKWKU,QCOM,QUALCOMM Incorporated,Technology,USD,NMS,154.41889999999998,VendorB
+USV399BMIOKC,VZ,Verizon Communications Inc.,Communication Services,USD,NYQ,40.3293,VendorB
+USAETN7TNKHJ,BKNG,Booking Holdings Inc.,Consumer Cyclical,USD,NMS,5099.0759,VendorB
+USLQ5RDA65JZ,DHR,Danaher Corporation,Healthcare,USD,NYQ,230.83550000000002,VendorB
+US3UAR4L4ZE0,T,AT&T Inc.,Communication Services,USD,NYQ,22.9775,VendorB
+US8WTAZV6CEU,BLK,"BlackRock, Inc.",Financial Services,USD,NYQ,1038.9769000000001,VendorB
+USRI67ZJ7ZSI,RTX,RTX Corporation,Industrials,USD,NYQ,117.6448,VendorB
+US7KRLLR59JA,SPGI,S&P Global Inc.,Financial Services,USD,NYQ,496.7281,VendorB
+USVML265XHMH,PFE,Pfizer Inc.,Healthcare,USD,NYQ,26.6236,VendorB
+USDG005QSEF8,HON,Honeywell International Inc.,Industrials,USD,NMS,230.6032,VendorB
+US6KWNXLKJM3,NEE,"NextEra Energy, Inc.",Utilities,USD,NYQ,72.3867,VendorB
+US2GL3NC2G5U,CMCSA,Comcast Corporation,Communication Services,USD,NMS,38.602199999999996,VendorB
+USQ74I4FMWQ1,ANET,Arista Networks Inc,Technology,USD,NYQ,113.9381,VendorB
+USJQLE9WHCEL,AMGN,Amgen Inc.,Healthcare,USD,NMS,266.0138,VendorB
+USZA3G637ZI2,PGR,The Progressive Corporation,Financial Services,USD,NYQ,242.3697,VendorB
+US70I9FPNOJ7,LOW,"Lowe's Companies, Inc.",Consumer Cyclical,USD,NYQ,250.1972,VendorB
+US8UBZBSHU76,SYK,Stryker Corporation,Healthcare,USD,NYQ,368.24600000000004,VendorB
+USCAGFFJLIPH,UNP,Union Pacific Corporation,Industrials,USD,NYQ,228.5832,VendorB
+USZVSFM5NXHN,TJX,"The TJX Companies, Inc.",Consumer Cyclical,USD,NYQ,123.22,VendorB
+US0PGSMK1Q29,KKR,KKR & Co. Inc.,Financial Services,USD,NYQ,149.0558,VendorB
+US7WBJUP3U6R,SCHW,The Charles Schwab Corporation,Financial Services,USD,NYQ,75.0531,VendorB
+USMU6LTF1SWS,ETN,Eaton Corporation plc,Industrials,USD,NYQ,341.5012,VendorB
+USACN83EVK7E,AMAT,"Applied Materials, Inc.",Technology,USD,NMS,165.2259,VendorB
+US6FGIAF3WZX,BA,The Boeing Company,Industrials,USD,NYQ,179.1235,VendorB
+US8D5PAYDRO9,BSX,Boston Scientific Corporation,Healthcare,USD,NYQ,89.8395,VendorB
+USSMJJZ7PNEU,C,Citigroup Inc.,Financial Services,USD,NYQ,69.8819,VendorB
+USZSZDBS89CO,UBER,"Uber Technologies, Inc.",Technology,USD,NYQ,61.3373,VendorB
+USAQA488WJUS,COP,ConocoPhillips,Energy,USD,NYQ,96.0712,VendorB
+USHISXS3MTGE,PANW,"Palo Alto Networks, Inc.",Technology,USD,NMS,188.6478,VendorB
+USU2T6EGQ9DW,ADP,"Automatic Data Processing, Inc.",Technology,USD,NMS,296.9602,VendorB
+USTXWJRH13QZ,DE,Deere & Company,Industrials,USD,NYQ,436.8149,VendorB
+US4VPLJ7K2TO,FI,"Fiserv, Inc.",Technology,USD,NYQ,208.1105,VendorB
+USTYRXCIJTS7,BMY,Bristol-Myers Squibb Company,Healthcare,USD,NYQ,57.9033,VendorB
+USAUC0NWIA49,LMT,Lockheed Martin Corporation,Industrials,USD,NYQ,493.9102,VendorB
+USX1NEGZSN7H,GILD,"Gilead Sciences, Inc.",Healthcare,USD,NMS,93.4957,VendorB
+USIYUABYHS9L,NKE,"NIKE, Inc.",Consumer Cyclical,USD,NYQ,77.7094,VendorB
+USEB5AY3BGM5,CB,Chubb Limited,Financial Services,USD,NYQ,275.932,VendorB
+US5CDMFSF0JE,UPS,"United Parcel Service, Inc.",Industrials,USD,NYQ,126.9368,VendorB
+US9ZQM4D5EII,ADI,"Analog Devices, Inc.",Technology,USD,NMS,213.8978,VendorB
+USE18Y9VK987,MMC,"Marsh & McLennan Companies, Inc.",Financial Services,USD,NYQ,213.8574,VendorB
+US0EO5LKE7M5,MDT,Medtronic plc,Healthcare,USD,NYQ,81.8403,VendorB
+USHUOCB7DQ16,VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,USD,NMS,401.2427,VendorB
+USQFD6PUBS2O,MU,"Micron Technology, Inc.",Technology,USD,NMS,91.02120000000001,VendorB
+USJRB9GR7B43,SBUX,Starbucks Corporation,Consumer Cyclical,USD,NMS,88.8497,VendorB
+US7UJ3Q1CWY7,PLD,"Prologis, Inc.",Real Estate,USD,NYQ,104.3532,VendorB
+USR7QXKKEUUK,GEV,GE Vernova Inc.,Utilities,USD,NYQ,346.08660000000003,VendorB
+US3ZD4U9A6T9,LRCX,Lam Research Corporation,Technology,USD,NMS,72.5079,VendorB
+USNGGELZT5OZ,MO,"Altria Group, Inc.",Consumer Defensive,USD,NYQ,54.378400000000006,VendorB
+USIRRJ6NL4HH,SO,The Southern Company,Utilities,USD,NYQ,83.6886,VendorB
+USYDZWZ7KKRT,EQIX,"Equinix, Inc.",Real Estate,USD,NMS,936.4922,VendorB
+USK2MB0OMAPT,CRWD,"CrowdStrike Holdings, Inc.",Technology,USD,NMS,365.91290000000004,VendorB
+US2M6YLVVTDP,PYPL,"PayPal Holdings, Inc.",Financial Services,USD,NMS,88.0013,VendorB
+USZQ9VVYDJVT,SHW,The Sherwin-Williams Company,Basic Materials,USD,NYQ,348.92470000000003,VendorB
+USOOK6IJWRFQ,ICE,"Intercontinental Exchange, Inc.",Financial Services,USD,NYQ,151.8131,VendorB
+USS76VYARYYU,CME,CME Group Inc.,Financial Services,USD,NMS,240.9153,VendorB
+USQJ3TL31YHH,AMT,American Tower Corporation,Real Estate,USD,NYQ,185.5673,VendorB
+US9FH2I7L7YT,APH,Amphenol Corporation,Technology,USD,NYQ,71.2858,VendorB
+USKGF7637VX4,ELV,"Elevance Health, Inc.",Healthcare,USD,NYQ,369.6196,VendorB
+US6U3JJ5GEWH,TT,Trane Technologies plc,Industrials,USD,NYQ,380.8811,VendorB
+US93MPUVRDAA,MCO,Moody's Corporation,Financial Services,USD,NYQ,471.0135,VendorB
+USBML4Q9W2BC,CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,USD,NYQ,62.4887,VendorB
+US9FM9WQ0XCT,INTC,Intel Corporation,Technology,USD,NMS,19.7152,VendorB
+US26WP7OP65K,KLAC,KLA Corporation,Technology,USD,NMS,635.6637000000001,VendorB
+USOQIZ8816ID,ABNB,"Airbnb, Inc.",Consumer Cyclical,USD,NMS,135.5521,VendorB
+USXKBFI7KN1Y,DUK,Duke Energy Corporation,Utilities,USD,NYQ,109.36280000000001,VendorB
+USAHYIJ70FLJ,PH,Parker-Hannifin Corporation,Industrials,USD,NYQ,653.672,VendorB
+US16EWVEAV2H,CDNS,"Cadence Design Systems, Inc.",Technology,USD,NMS,304.48470000000003,VendorB
+USAMAE1KNFPC,WM,"Waste Management, Inc.",Industrials,USD,NYQ,207.88830000000002,VendorB
+US1MX9FFYI7T,DELL,Dell Technologies Inc.,Technology,USD,NYQ,116.9277,VendorB
+USPV9P53EQA3,MDLZ,"Mondelez International, Inc.",Consumer Defensive,USD,NMS,59.9839,VendorB
+USHW60PZ7GWH,MAR,"Marriott International, Inc.",Consumer Cyclical,USD,NMS,286.7996,VendorB
+USAURJ40N4Z8,MSI,"Motorola Solutions, Inc.",Technology,USD,NYQ,474.6394,VendorB
+USUY8UXLTJ8J,WELL,Welltower Inc.,Real Estate,USD,NYQ,125.8864,VendorB
+US9S3NSBPOK3,AON,Aon plc,Financial Services,USD,NYQ,362.0547,VendorB
+USVYX573WGT9,REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,USD,NMS,708.8685,VendorB
+USK16G9QEXGI,CI,The Cigna Group,Healthcare,USD,NYQ,279.6892,VendorB
+USTCNITU1PHU,HCA,"HCA Healthcare, Inc.",Healthcare,USD,NYQ,306.6562,VendorB
+USE4F0PANE24,PNC,"The PNC Financial Services Group, Inc.",Financial Services,USD,NYQ,194.6876,VendorB
+USO9OX1IK1JR,ITW,Illinois Tool Works Inc.,Industrials,USD,NYQ,261.4082,VendorB
+USE4MLHSVPM3,SNPS,"Synopsys, Inc.",Technology,USD,NMS,497.1018,VendorB
+USCYQRSNJFG4,CTAS,Cintas Corporation,Industrials,USD,NMS,188.8094,VendorB
+USBY61UJATH8,CL,Colgate-Palmolive Company,Consumer Defensive,USD,NYQ,92.9503,VendorB
+US4MQ2VLXVRH,USB,U.S. Bancorp,Financial Services,USD,NYQ,48.3992,VendorB
+USXFAGWRMMWB,FTNT,"Fortinet, Inc.",Technology,USD,NMS,98.1619,VendorB
+USK9S73A05MU,ZTS,Zoetis Inc.,Healthcare,USD,NYQ,166.4884,VendorB
+USBUYY89CGN3,MCK,McKesson Corporation,Healthcare,USD,NYQ,585.5374,VendorB
+US74349S51WE,GD,General Dynamics Corporation,Industrials,USD,NYQ,266.27639999999997,VendorB
+USWUFOJ39OSK,TDG,TransDigm Group Incorporated,Industrials,USD,NYQ,1288.9115000000002,VendorB
+US69KVXB8U6R,CEG,Constellation Energy Corporation,Utilities,USD,NMS,229.2902,VendorB
+US63ZLYLRPM6,AJG,Arthur J. Gallagher & Co.,Financial Services,USD,NYQ,285.93100000000004,VendorB
+US9UEIFDE2MB,EMR,Emerson Electric Co.,Industrials,USD,NYQ,125.3309,VendorB
+USTWX2LY66LC,MMM,3M Company,Industrials,USD,NYQ,130.5728,VendorB
+USBNT777AGC7,ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,USD,NMS,1231.3011,VendorB
+USK9HL00NA48,NOC,Northrop Grumman Corporation,Industrials,USD,NYQ,474.2354,VendorB
+USXVPUM4UH29,COF,Capital One Financial Corporation,Financial Services,USD,NYQ,180.4365,VendorB
+USCLOGMGA81G,ECL,Ecolab Inc.,Basic Materials,USD,NYQ,240.6729,VendorB
+US5DZ5TV8SXI,EOG,"EOG Resources, Inc.",Energy,USD,NYQ,120.2304,VendorB
+US8OKD2GHQC0,FDX,FedEx Corporation,Industrials,USD,NYQ,278.4873,VendorB
+US7C3CXBIE72,BDX,"Becton, Dickinson and Company",Healthcare,USD,NYQ,229.95680000000002,VendorB
+US2JJPLQ2KJB,APD,"Air Products and Chemicals, Inc.",Basic Materials,USD,NYQ,297.9399,VendorB
+USFIFIXCNRQ5,WMB,"The Williams Companies, Inc.",Energy,USD,NYQ,54.0249,VendorB
+US7KWZ46CSZ8,SPG,"Simon Property Group, Inc.",Real Estate,USD,NYQ,173.32610000000003,VendorB
+USX82Y0Z0MDP,ADSK,"Autodesk, Inc.",Technology,USD,NMS,301.1012,VendorB
+USNRD3P8FM71,RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,USD,NYQ,240.8143,VendorB
+USKIOB8TSOFF,RSG,"Republic Services, Inc.",Industrials,USD,NYQ,205.76729999999998,VendorB
+USUNM0BW1SOC,CARR,Carrier Global Corporation,Industrials,USD,NYQ,69.1749,VendorB
+USXY0HP7PQMQ,CSX,CSX Corporation,Industrials,USD,NMS,32.1685,VendorB
+US2N22B6J3LC,HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,USD,NYQ,251.9142,VendorB
+USNQONCFDBME,DLR,"Digital Realty Trust, Inc.",Real Estate,USD,NYQ,180.35569999999998,VendorB
+USW4I20U14Z4,TGT,Target Corporation,Consumer Defensive,USD,NYQ,132.79479999999998,VendorB
+USAM2FKYLDIQ,KMI,"Kinder Morgan, Inc.",Energy,USD,NYQ,27.1185,VendorB
+USAKZBESW41W,OKE,"ONEOK, Inc.",Energy,USD,NYQ,101.0808,VendorB
+USS01VLXO279,TFC,Truist Financial Corporation,Financial Services,USD,NYQ,43.7532,VendorB
+USDZ3RGFKYY5,AFL,Aflac Incorporated,Financial Services,USD,NYQ,103.7169,VendorB
+US147CKOS4VV,GM,General Motors Company,Consumer Cyclical,USD,NYQ,52.328100000000006,VendorB
+USR50R3L4185,BK,The Bank of New York Mellon Corporation,Financial Services,USD,NYQ,78.39620000000001,VendorB
+USF7NS21U1XY,ROP,"Roper Technologies, Inc.",Technology,USD,NMS,530.654,VendorB
+US9Z1IV5OMIQ,MET,"MetLife, Inc.",Financial Services,USD,NYQ,82.1736,VendorB
+USGDH5T5WTM5,CPRT,"Copart, Inc.",Industrials,USD,NMS,58.8022,VendorB
+USJUY9A9UUGE,FCX,Freeport-McMoRan Inc.,Basic Materials,USD,NYQ,39.2486,VendorB
+USU0LNJHUIX1,CVS,CVS Health Corporation,Healthcare,USD,NYQ,44.8036,VendorB
+USTYVGMN756R,PCAR,PACCAR Inc,Industrials,USD,NMS,106.3732,VendorB
+USSR8D5R1YOM,SRE,Sempra,Utilities,USD,NYQ,87.6781,VendorB
+US1LXXKWR0HV,AZO,"AutoZone, Inc.",Consumer Cyclical,USD,NYQ,3286.0047,VendorB
+USCCWIB4WDDX,TRV,"The Travelers Companies, Inc.",Financial Services,USD,NYQ,243.1676,VendorB
+USY5DXGERUIU,NXPI,NXP Semiconductors N.V.,Technology,USD,NMS,212.3424,VendorB
+USDRT12FFZ2F,JCI,Johnson Controls International plc,Industrials,USD,NYQ,81.4464,VendorB
+USE6YE4UT1O5,GWW,"W.W. Grainger, Inc.",Industrials,USD,NYQ,1103.8896,VendorB
+US2F5P75LTSX,NSC,Norfolk Southern Corporation,Industrials,USD,NYQ,236.4915,VendorB
+US148KHWTE08,PSA,Public Storage,Real Estate,USD,NYQ,300.475,VendorB
+USWXAR2DLGCK,SLB,Schlumberger Limited,Energy,USD,NYQ,37.198299999999996,VendorB
+US72AMK6N6MA,AMP,"Ameriprise Financial, Inc.",Financial Services,USD,NYQ,537.4412,VendorB
+USOXZGDSRNP3,ALL,The Allstate Corporation,Financial Services,USD,NYQ,195.4956,VendorB
+US25WKD75N1W,FICO,Fair Isaac Corporation,Technology,USD,NYQ,2111.8898,VendorB
+USZOYKD0JCRS,MNST,Monster Beverage Corporation,Consumer Defensive,USD,NMS,52.2372,VendorB
+UST1KWQWD3CS,PAYX,"Paychex, Inc.",Technology,USD,NMS,140.9354,VendorB
+US7TEWZ0YMQ4,CHTR,"Charter Communications, Inc.",Communication Services,USD,NMS,355.015,VendorB
+USC86EHOLUZ2,AEP,"American Electric Power Company, Inc.",Utilities,USD,NMS,93.6775,VendorB
+USS151VDNHUO,ROST,"Ross Stores, Inc.",Consumer Cyclical,USD,NMS,150.6415,VendorB
+USUS1EPUMKK2,PWR,"Quanta Services, Inc.",Industrials,USD,NYQ,331.69410000000005,VendorB
+USIH0QH10C57,CMI,Cummins Inc.,Industrials,USD,NYQ,354.8938,VendorB
+USZSOBJINWXS,AXON,"Axon Enterprise, Inc.",Industrials,USD,NMS,638.0069000000001,VendorB
+USEK0F0GJIR3,VST,Vistra Corp.,Utilities,USD,NYQ,141.34949999999998,VendorB
+USGGFYBT3IHI,URI,"United Rentals, Inc.",Industrials,USD,NYQ,729.8664,VendorB
+USJAD7SCH2TT,MSCI,MSCI Inc.,Financial Services,USD,NYQ,610.848,VendorB
+USIQE6FRAMWI,LULU,Lululemon Athletica Inc.,Consumer Cyclical,USD,NMS,383.2142,VendorB
+US47C2EPY1KF,O,Realty Income Corporation,Real Estate,USD,NYQ,53.3179,VendorB
+USTO90Y1L1XL,PSX,Phillips 66,Energy,USD,NYQ,111.47370000000001,VendorB
+USIR6BV48YNY,AIG,"American International Group, Inc.",Financial Services,USD,NYQ,73.4169,VendorB
+USCCD6FVLJEQ,FANG,"Diamondback Energy, Inc.",Energy,USD,NMS,156.4894,VendorB
+USM4D72XX4FH,D,"Dominion Energy, Inc.",Utilities,USD,NYQ,54.1966,VendorB
+USKGLZLOJQEA,HWM,Howmet Aerospace Inc.,Industrials,USD,NYQ,111.9383,VendorB
+US9T6NI1HX37,DHI,"D.R. Horton, Inc.",Consumer Cyclical,USD,NYQ,141.0061,VendorB
+USFM1VNFIADS,KR,The Kroger Co.,Consumer Defensive,USD,NYQ,62.4685,VendorB
+USH4PJCFGTPY,NDAQ,"Nasdaq, Inc.",Financial Services,USD,NMS,78.477,VendorB
+USD464PGBP4L,OXY,Occidental Petroleum Corporation,Energy,USD,NYQ,47.6013,VendorB
+US6VILR5VDI4,EW,Edwards Lifesciences Corporation,Healthcare,USD,NYQ,75.5581,VendorB
+USMCGGSQKPDJ,COR,"Cencora, Inc.",Healthcare,USD,NYQ,229.9669,VendorB
+USFD3XGA2XBQ,KDP,Keurig Dr Pepper Inc.,Consumer Defensive,USD,NMS,32.6937,VendorB
+US9KQVY19U2Z,FIS,"Fidelity National Information Services, Inc.",Technology,USD,NYQ,82.27459999999999,VendorB
+USP5350ZOB3G,KMB,Kimberly-Clark Corporation,Consumer Defensive,USD,NYQ,132.6332,VendorB
+USTI7JU73ILI,NEM,Newmont Corporation,Basic Materials,USD,NYQ,38.662800000000004,VendorB
+US3IY773XAUA,DFS,Discover Financial Services,Financial Services,USD,NYQ,174.8916,VendorB
+UST5NRWTL0KI,PCG,PG&E Corporation,Utilities,USD,NYQ,20.0182,VendorB
+USNWGKVGI24W,TEL,TE Connectivity plc,Technology,USD,NYQ,145.1067,VendorB
+USYZ6USMTDN6,MPC,Marathon Petroleum Corporation,Energy,USD,NYQ,134.7138,VendorB
+USA6GVTIGA9C,FAST,Fastenal Company,Industrials,USD,NMS,75.56819999999999,VendorB
+USYEFCJN00UH,AME,"AMETEK, Inc.",Industrials,USD,NYQ,185.1936,VendorB
+USF265EX96EP,PEG,Public Service Enterprise Group Incorporated,Utilities,USD,NYQ,85.9106,VendorB
+USI36T343JKN,PRU,"Prudential Financial, Inc.",Financial Services,USD,NYQ,119.0083,VendorB
+USTVGVDPH9O0,KVUE,Kenvue Inc.,Consumer Defensive,USD,NYQ,21.9877,VendorB
+US0SLW758B9H,STZ,"Constellation Brands, Inc.",Consumer Defensive,USD,NYQ,229.9063,VendorB
+US6Z1SF2SKTL,GLW,Corning Incorporated,Technology,USD,NYQ,47.783100000000005,VendorB
+USK6TSY9FHWR,LHX,"L3Harris Technologies, Inc.",Industrials,USD,NYQ,215.68550000000002,VendorB
+USLWQXDPP8BO,GRMN,Garmin Ltd.,Technology,USD,NYQ,211.0799,VendorB
+USIOUK1T46SP,BKR,Baker Hughes Company,Energy,USD,NMS,40.7232,VendorB
+USUP7CUC65E7,CBRE,"CBRE Group, Inc.",Real Estate,USD,NYQ,130.45159999999998,VendorB
+USSXH64CNHLK,CTVA,"Corteva, Inc.",Basic Materials,USD,NYQ,58.0548,VendorB
+USQ3GU9L1XXC,HES,Hess Corporation,Energy,USD,NYQ,129.4719,VendorB
+USIXZ07EILXZ,CCI,Crown Castle Inc.,Real Estate,USD,NYQ,91.5666,VendorB
+USW2UM969BDZ,DAL,"Delta Air Lines, Inc.",Industrials,USD,NYQ,61.5393,VendorB
+USIL2VJZO32Y,CTSH,Cognizant Technology Solutions Corporation,Technology,USD,NMS,80.0223,VendorB
+USCLJQAOKQRS,F,Ford Motor Company,Consumer Cyclical,USD,NYQ,9.978800000000001,VendorB
+US726C00W2RB,VRSK,"Verisk Analytics, Inc.",Industrials,USD,NMS,279.6286,VendorB
+USXA9UM2D8LX,EA,Electronic Arts Inc.,Communication Services,USD,NMS,149.27800000000002,VendorB
+USC6WC889SA6,ODFL,"Old Dominion Freight Line, Inc.",Industrials,USD,NMS,183.18370000000002,VendorB
+USLR1V1XQ5LZ,XEL,Xcel Energy Inc.,Utilities,USD,NMS,68.07400000000001,VendorB
+US61GXUBNLDZ,TRGP,Targa Resources Corp.,Energy,USD,NYQ,178.5579,VendorB
+US71I9PKQCXH,A,"Agilent Technologies, Inc.",Healthcare,USD,NYQ,135.8551,VendorB
+USZCX0YVAGH6,IT,"Gartner, Inc.",Technology,USD,NYQ,496.1625,VendorB
+US5S78TSA5PM,LVS,Las Vegas Sands Corp.,Consumer Cyclical,USD,NYQ,52.7725,VendorB
+USIMX1CHI44T,SYY,Sysco Corporation,Consumer Defensive,USD,NYQ,77.7397,VendorB
+USBL7NMMNNDJ,VLO,Valero Energy Corporation,Energy,USD,NYQ,119.77590000000001,VendorB
+USNSJ5HPFYAK,OTIS,Otis Worldwide Corporation,Industrials,USD,NYQ,94.4956,VendorB
+USQOKL7FT8Z8,LEN,Lennar Corporation,Consumer Cyclical,USD,NYQ,139.4608,VendorB
+US2CY2ZRV40H,EXC,Exelon Corporation,Utilities,USD,NMS,37.3902,VendorB
+USMML0NM4H83,IR,Ingersoll Rand Inc.,Industrials,USD,NYQ,93.2028,VendorB
+USYESKY7K6M7,YUM,"Yum! Brands, Inc.",Consumer Cyclical,USD,NYQ,133.6836,VendorB
+USI0YK6XHC1Z,KHC,The Kraft Heinz Company,Consumer Defensive,USD,NMS,30.8252,VendorB
+USANU2TXPFKM,GEHC,GE HealthCare Technologies Inc.,Healthcare,USD,NMS,79.6991,VendorB
+USAS4PV70DY2,IQV,IQVIA Holdings Inc.,Healthcare,USD,NYQ,199.2427,VendorB
+USKR4PD0GC6Y,GIS,"General Mills, Inc.",Consumer Defensive,USD,NYQ,64.2461,VendorB
+USWM4GVCB3NB,CCL,Carnival Corporation & plc,Consumer Cyclical,USD,NYQ,27.068,VendorB
+USX4G2L7CRWI,RMD,ResMed Inc.,Healthcare,USD,NYQ,239.64270000000002,VendorB
+USH8V73MI74S,VMC,Vulcan Materials Company,Basic Materials,USD,NYQ,265.7613,VendorB
+US0I6LERMRN0,HSY,The Hershey Company,Consumer Defensive,USD,NYQ,171.96259999999998,VendorB
+USW4G7B6X2OD,ACGL,Arch Capital Group Ltd.,Financial Services,USD,NMS,91.8999,VendorB
+USASL9JXYYM8,IDXX,"IDEXX Laboratories, Inc.",Healthcare,USD,NMS,416.38259999999997,VendorB
+US1YN32NOEYN,WAB,Westinghouse Air Brake Technologies Corporation,Industrials,USD,NYQ,194.9603,VendorB
+USAZG70FTYG7,ROK,"Rockwell Automation, Inc.",Industrials,USD,NYQ,292.6879,VendorB
+USUBQVVY8VRP,MLM,"Martin Marietta Materials, Inc.",Basic Materials,USD,NYQ,539.0269000000001,VendorB
+USFMH6OLIE8Q,EXR,Extra Space Storage Inc.,Real Estate,USD,NYQ,148.47,VendorB
+USAIEQY3TRTZ,DD,"DuPont de Nemours, Inc.",Basic Materials,USD,NYQ,78.0528,VendorB
+US5WY9YYF93M,ETR,Entergy Corporation,Utilities,USD,NYQ,75.8813,VendorB
+USILS67Z2NVG,DECK,Deckers Outdoor Corporation,Consumer Cyclical,USD,NYQ,213.0797,VendorB
+US0A7OGA6LYP,EFX,Equifax Inc.,Industrials,USD,NYQ,261.0143,VendorB
+USM93VBJS0BL,UAL,"United Airlines Holdings, Inc.",Industrials,USD,NMS,98.37400000000001,VendorB
+USVWMXXLSPDO,WTW,Willis Towers Watson Public Limited Company,Financial Services,USD,NMS,320.7457,VendorB
+USF4HNRZ6T75,TTWO,"Take-Two Interactive Software, Inc.",Communication Services,USD,NMS,183.7897,VendorB
+USRB0W8CNSBU,HIG,"The Hartford Financial Services Group, Inc.",Financial Services,USD,NYQ,110.5647,VendorB
+US3Q7R18DZAL,RJF,"Raymond James Financial, Inc.",Financial Services,USD,NYQ,156.6005,VendorB
+USWDONJ7XKVH,AVB,"AvalonBay Communities, Inc.",Real Estate,USD,NYQ,224.3917,VendorB
+USLX0TPHA8CQ,MTB,M&T Bank Corporation,Financial Services,USD,NYQ,191.3748,VendorB
+USF52NPZDS5C,DXCM,"DexCom, Inc.",Healthcare,USD,NMS,80.8404,VendorB
+USXZUCU94KMR,ED,"Consolidated Edison, Inc.",Utilities,USD,NYQ,90.9303,VendorB
+USZA7VGGMSUJ,EBAY,eBay Inc.,Consumer Cyclical,USD,NMS,65.6601,VendorB
+USPGGZ89N326,HPQ,HP Inc.,Technology,USD,NYQ,33.2694,VendorB
+USSI6RQTSTE6,IRM,Iron Mountain Incorporated,Real Estate,USD,NYQ,106.151,VendorB
+USQP3F24942E,EIX,Edison International,Utilities,USD,NYQ,80.31519999999999,VendorB
+USTHK5SDM1UK,LYV,"Live Nation Entertainment, Inc.",Communication Services,USD,NYQ,134.6128,VendorB
+US7WNKDOVDVB,VICI,VICI Properties Inc.,Real Estate,USD,NYQ,29.0779,VendorB
+USEZEZL8ISM7,CNC,Centene Corporation,Healthcare,USD,NYQ,60.175799999999995,VendorB
+US8MW329SB8A,WEC,"WEC Energy Group, Inc.",Utilities,USD,NYQ,95.44500000000001,VendorB
+US7P3V2Z9ROP,MCHP,Microchip Technology Incorporated,Technology,USD,NMS,56.0651,VendorB
+USRGTQTDBFJI,HUM,Humana Inc.,Healthcare,USD,NYQ,249.571,VendorB
+USHMQDSLWJDJ,ANSS,"ANSYS, Inc.",Technology,USD,NMS,341.7638,VendorB
+USKIQY8APTEN,BRO,"Brown & Brown, Inc.",Financial Services,USD,NYQ,103.95930000000001,VendorB
+USINQEOKM42C,CSGP,"CoStar Group, Inc.",Real Estate,USD,NMS,72.1544,VendorB
+USZQBBSSEWFD,MPWR,"Monolithic Power Systems, Inc.",Technology,USD,NMS,599.1522,VendorB
+USI0GI7XFVDQ,GDDY,GoDaddy Inc.,Technology,USD,NYQ,207.4641,VendorB
+US0NZD6P8YX9,TSCO,Tractor Supply Company,Consumer Cyclical,USD,NMS,54.4592,VendorB
+US3F0RIPKZKQ,STT,State Street Corporation,Financial Services,USD,NYQ,99.182,VendorB
+USZH0CLFJ5KT,CAH,"Cardinal Health, Inc.",Healthcare,USD,NYQ,119.4628,VendorB
+USGZ8TH0LH32,GPN,Global Payments Inc.,Industrials,USD,NYQ,113.1503,VendorB
+USC4MTGTU7PQ,FITB,Fifth Third Bancorp,Financial Services,USD,NMS,43.3593,VendorB
+USEQB9SF6OWB,XYL,Xylem Inc.,Industrials,USD,NYQ,118.3114,VendorB
+USWLTEH6F6J4,HPE,Hewlett Packard Enterprise Company,Technology,USD,NYQ,21.8261,VendorB
+US8THJ38VAFQ,KEYS,"Keysight Technologies, Inc.",Technology,USD,NYQ,164.8522,VendorB
+US14ZBAN0001,DOW,Dow Inc.,Basic Materials,USD,NYQ,40.3394,VendorB
+USQU53AM97O9,EQR,Equity Residential,Real Estate,USD,NYQ,72.06349999999999,VendorB
+USS5WKD6M4Z7,ON,ON Semiconductor Corporation,Technology,USD,NMS,66.155,VendorB
+USBA08XPLYY5,PPG,"PPG Industries, Inc.",Basic Materials,USD,NYQ,121.4121,VendorB
+USALDGE9WXSK,K,Kellanova,Consumer Defensive,USD,NYQ,81.305,VendorB
+USW0TIR1X9KL,SW,Smurfit Westrock Plc,Consumer Cyclical,USD,NYQ,53.8128,VendorB
+USHKBA0V98TS,NUE,Nucor Corporation,Basic Materials,USD,NYQ,117.7458,VendorB
+USS4EEP1NXKW,EL,The Estée Lauder Companies Inc.,Consumer Defensive,USD,NYQ,75.1036,VendorB
+US4X3Q61NLXY,BR,"Broadridge Financial Solutions, Inc.",Technology,USD,NYQ,228.27009999999999,VendorB
+USKOVUPHTMJO,WBD,"Warner Bros. Discovery, Inc.",Communication Services,USD,NMS,10.796899999999999,VendorB
+USW67OZBV3XD,TPL,Texas Pacific Land Corporation,Energy,USD,NYQ,1144.4512,VendorB
+USBPFSDRHXOF,CHD,"Church & Dwight Co., Inc.",Consumer Defensive,USD,NYQ,107.161,VendorB
+USMVZMKMINVB,MTD,Mettler-Toledo International Inc.,Healthcare,USD,NYQ,1243.0474,VendorB
+USQSJGUF2T0B,DOV,Dover Corporation,Industrials,USD,NYQ,191.1627,VendorB
+USU3NXP2BO8Q,TYL,"Tyler Technologies, Inc.",Technology,USD,NYQ,611.4742,VendorB
+USA6Q9XFG2Z4,FTV,Fortive Corporation,Technology,USD,NYQ,75.1945,VendorB
+USN0862G8HMX,TROW,"T. Rowe Price Group, Inc.",Financial Services,USD,NMS,117.28120000000001,VendorB
+USS6RZZADK5U,VLTO,Veralto Corporation,Industrials,USD,NYQ,105.2925,VendorB
+USMGB7WUSVUA,EQT,EQT Corporation,Energy,USD,NYQ,43.419900000000005,VendorB
+USRCAX62LRS6,SYF,Synchrony Financial,Financial Services,USD,NYQ,66.1045,VendorB
+USYMZVERGZ6D,NVR,"NVR, Inc.",Consumer Cyclical,USD,NYQ,8359.5478,VendorB
+USZGHOL1X1AE,DTE,DTE Energy Company,Utilities,USD,NYQ,121.38180000000001,VendorB
+USBGB7TTPPME,VTR,"Ventas, Inc.",Real Estate,USD,NYQ,59.3476,VendorB
+US98T5D20ZRK,AWK,"American Water Works Company, Inc.",Utilities,USD,NYQ,127.17920000000001,VendorB
+USIY60NW20KR,ADM,Archer-Daniels-Midland Company,Consumer Defensive,USD,NYQ,50.9949,VendorB
+US2EUHN243NI,NTAP,"NetApp, Inc.",Technology,USD,NMS,119.6345,VendorB
+USU8OK9FSCV8,WST,"West Pharmaceutical Services, Inc.",Healthcare,USD,NYQ,334.714,VendorB
+USXF4UFR2NPD,CPAY,"Corpay, Inc.",Technology,USD,NYQ,347.2683,VendorB
+US3DLAI366JK,PPL,PPL Corporation,Utilities,USD,NYQ,32.7543,VendorB
+USNON7NXCGXZ,LYB,LyondellBasell Industries N.V.,Basic Materials,USD,NYQ,74.235,VendorB
+USYHRG8IFR5S,AEE,Ameren Corporation,Utilities,USD,NYQ,90.1829,VendorB
+USGC4966X1HH,EXPE,"Expedia Group, Inc.",Consumer Cyclical,USD,NMS,186.5975,VendorB
+USBQLE0OUOAM,HBAN,Huntington Bancshares Incorporated,Financial Services,USD,NMS,16.4832,VendorB
+USX5IDCIF71H,CDW,CDW Corporation,Technology,USD,NMS,176.27530000000002,VendorB
+US941LRPXY9Q,FE,FirstEnergy Corp.,Utilities,USD,NYQ,40.1879,VendorB
+USWWBE4ES6FG,HUBB,Hubbell Incorporated,Industrials,USD,NYQ,431.06800000000004,VendorB
+US62KXJY8X5V,HAL,Halliburton Company,Energy,USD,NYQ,26.229699999999998,VendorB
+USZ8J5XFY2U5,ROL,"Rollins, Inc.",Consumer Cyclical,USD,NYQ,47.3892,VendorB
+USMPB9G3J2ZA,PHM,"PulteGroup, Inc.",Consumer Cyclical,USD,NYQ,111.62519999999999,VendorB
+USIKCIKH4AEX,CINF,Cincinnati Financial Corporation,Financial Services,USD,NMS,146.01569999999998,VendorB
+USF0K877VR48,PTC,PTC Inc.,Technology,USD,NMS,189.4558,VendorB
+US3IRJ1FKB9Q,WRB,W. R. Berkley Corporation,Financial Services,USD,NYQ,59.1557,VendorB
+USISZJHJLB1B,DRI,"Darden Restaurants, Inc.",Consumer Cyclical,USD,NYQ,189.4659,VendorB
+US6207WRKA4Y,FOXA,Fox Corporation,Communication Services,USD,NMS,50.0253,VendorB
+US3ANBRKQ31Z,FOX,Fox Corporation,Communication Services,USD,NMS,47.1165,VendorB
+USKNB56CE76X,IFF,International Flavors & Fragrances Inc.,Basic Materials,USD,NYQ,86.5974,VendorB
+USEGQ4NHR4O9,SBAC,SBA Communications Corporation,Real Estate,USD,NMS,205.60569999999998,VendorB
+USBVTDVKQRK6,WAT,Waters Corporation,Healthcare,USD,NYQ,371.8416,VendorB
+USXJZOVRSAUH,ERIE,Erie Indemnity Company,Financial Services,USD,NMS,420.64480000000003,VendorB
+USICA1DSJOSZ,TDY,Teledyne Technologies Incorporated,Technology,USD,NYQ,471.9225,VendorB
+USMWRVUF2W72,ATO,Atmos Energy Corporation,Utilities,USD,NYQ,141.08689999999999,VendorB
+USDRXO0GHV5V,RF,Regions Financial Corporation,Financial Services,USD,NYQ,24.0077,VendorB
+USO3GV2EPVZR,BIIB,Biogen Inc.,Healthcare,USD,NMS,147.9347,VendorB
+US7XN5962YGQ,ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,USD,NYQ,108.19120000000001,VendorB
+USKYHBFTF6A3,CNP,"CenterPoint Energy, Inc.",Utilities,USD,NYQ,32.8654,VendorB
+USZ8RUF1MXD6,MKC,"McCormick & Company, Incorporated",Consumer Defensive,USD,NYQ,79.6486,VendorB
+USGBY576GWN3,ES,Eversource Energy,Utilities,USD,NYQ,57.5195,VendorB
+US782RZCH3HQ,WDC,Western Digital Corporation,Technology,USD,NMS,60.842400000000005,VendorB
+US0ZKF73EYSC,TSN,"Tyson Foods, Inc.",Consumer Defensive,USD,NYQ,58.6002,VendorB
+USUB2JIPILIX,TER,"Teradyne, Inc.",Technology,USD,NMS,127.2095,VendorB
+US5K1L7UWRCS,STE,STERIS plc,Healthcare,USD,NYQ,209.56490000000002,VendorB
+USIAF583G313,PKG,Packaging Corporation of America,Consumer Cyclical,USD,NYQ,230.25979999999998,VendorB
+US9UYEXBYEPC,CLX,The Clorox Company,Consumer Defensive,USD,NYQ,166.0844,VendorB
+US4XBUVF8W46,NTRS,Northern Trust Corporation,Financial Services,USD,NMS,103.5048,VendorB
+USKJ9G4MRUWX,ZBRA,Zebra Technologies Corporation,Technology,USD,NMS,396.97040000000004,VendorB
+USDSQZ4C9I8T,DVN,Devon Energy Corporation,Energy,USD,NYQ,31.0777,VendorB
+USJSRRPS2IJ2,CBOE,"Cboe Global Markets, Inc.",Financial Services,USD,BTS,193.5261,VendorB
+USY7YSVV0ICZ,WY,Weyerhaeuser Company,Real Estate,USD,NYQ,27.775,VendorB
+US7IJECEFDK1,LUV,Southwest Airlines Co.,Industrials,USD,NYQ,33.6128,VendorB
+USYUYSAEPD11,ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,USD,NMS,434.3101,VendorB
+USAN17V13K8K,CMS,CMS Energy Corporation,Utilities,USD,NYQ,67.2761,VendorB
+USS8SC85QR0Q,INVH,Invitation Homes Inc.,Real Estate,USD,NYQ,32.4614,VendorB
+USN9D8DKYHH0,FSLR,"First Solar, Inc.",Technology,USD,NMS,184.2139,VendorB
+US2KHB8UDB2E,BF-B,Brown-Forman Corporation,Consumer Defensive,USD,NYQ,41.6928,VendorB
+USCKI2RN2ZHR,LDOS,"Leidos Holdings, Inc.",Technology,USD,NYQ,146.2581,VendorB
+USJD24EA4SRG,CFG,"Citizens Financial Group, Inc.",Financial Services,USD,NYQ,43.8845,VendorB
+USRDRFBNKZGP,LH,Labcorp Holdings Inc.,Healthcare,USD,NYQ,230.89610000000002,VendorB
+USOQG2YWZOR4,VRSN,"VeriSign, Inc.",Technology,USD,NMS,200.82840000000002,VendorB
+US15KK6GSDV3,IP,International Paper Company,Consumer Cyclical,USD,NYQ,54.9945,VendorB
+USCUX4HCZYPZ,ESS,"Essex Property Trust, Inc.",Real Estate,USD,NYQ,286.5976,VendorB
+US00W4B3L2OW,PODD,Insulet Corporation,Healthcare,USD,NMS,269.2357,VendorB
+USBC2OPA4BPT,COO,"The Cooper Companies, Inc.",Healthcare,USD,NMS,94.3744,VendorB
+USY6RLF0VPIP,SMCI,"Super Micro Computer, Inc.",Technology,USD,NMS,31.9059,VendorB
+USUSOY6ZM5NL,STX,Seagate Technology Holdings plc,Technology,USD,NMS,88.1831,VendorB
+USII9ENTKGNQ,MAA,"Mid-America Apartment Communities, Inc.",Real Estate,USD,NYQ,154.934,VendorB
+USVS8T5V8MP1,FDS,FactSet Research Systems Inc.,Financial Services,USD,NYQ,488.35519999999997,VendorB
+UST1ZGDEIKLI,NRG,"NRG Energy, Inc.",Utilities,USD,NYQ,91.3545,VendorB
+USB5J8J1QXH4,BBY,"Best Buy Co., Inc.",Consumer Cyclical,USD,NYQ,86.4055,VendorB
+USTBFABMV0OH,SNA,Snap-on Incorporated,Industrials,USD,NYQ,347.0865,VendorB
+US6N4AQQLGDJ,L,Loews Corporation,Financial Services,USD,NYQ,84.0219,VendorB
+USV26XL9UAJA,PFG,"Principal Financial Group, Inc.",Financial Services,USD,NMS,78.073,VendorB
+US1D0GDDMO4Y,STLD,"Steel Dynamics, Inc.",Basic Materials,USD,NMS,116.8469,VendorB
+USHF4OZSUHVZ,TRMB,Trimble Inc.,Technology,USD,NMS,72.35640000000001,VendorB
+US3OLYUOB1NB,OMC,Omnicom Group Inc.,Communication Services,USD,NYQ,89.7486,VendorB
+USO6SH46W12G,CTRA,Coterra Energy Inc.,Energy,USD,NYQ,23.9168,VendorB
+USBBCM1DHPVX,HRL,Hormel Foods Corporation,Consumer Defensive,USD,NYQ,31.9968,VendorB
+USCR2MTUDL3T,ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,USD,NYQ,100.1617,VendorB
+USM7OP47UJTA,BLDR,"Builders FirstSource, Inc.",Industrials,USD,NYQ,152.005,VendorB
+US21ZPN5SQ8Q,JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,USD,NMS,171.9323,VendorB
+US4SYS8AV4AU,GEN,Gen Digital Inc.,Technology,USD,NMS,28.1083,VendorB
+USMQOPR772RZ,DGX,Quest Diagnostics Incorporated,Healthcare,USD,NYQ,154.631,VendorB
+USED92AWZG1U,KEY,KeyCorp,Financial Services,USD,NYQ,17.2609,VendorB
+US9V0MIQHMEA,NI,NiSource Inc.,Utilities,USD,NYQ,36.5317,VendorB
+USJYWZ9I6O8F,MOH,"Molina Healthcare, Inc.",Healthcare,USD,NYQ,297.6773,VendorB
+USSZE06V34P0,PNR,Pentair plc,Industrials,USD,NYQ,102.96950000000001,VendorB
+US9C7ZWEGMI8,J,Jacobs Solutions Inc.,Industrials,USD,NYQ,137.1075,VendorB
+USU75UB0UX8M,DG,Dollar General Corporation,Consumer Defensive,USD,NYQ,77.164,VendorB
+USVU3JT6BCOV,BALL,Ball Corporation,Consumer Cyclical,USD,NYQ,56.358,VendorB
+USASBK8Z40AH,NWS,News Corporation,Communication Services,USD,NMS,31.006999999999998,VendorB
+USCD0B965I2Z,NWSA,News Corporation,Communication Services,USD,NMS,28.1386,VendorB
+USWQQ6YNBMUR,UDR,"UDR, Inc.",Real Estate,USD,NYQ,43.894600000000004,VendorB
+USETY8GYR9E0,HOLX,"Hologic, Inc.",Healthcare,USD,NMS,72.3665,VendorB
+USGQ3MVA1YI0,JBL,Jabil Inc.,Technology,USD,NYQ,146.45,VendorB
+USGPLG6M4RG4,GPC,Genuine Parts Company,Consumer Cyclical,USD,NYQ,116.88730000000001,VendorB
+US2SL6H13OTT,IEX,IDEX Corporation,Industrials,USD,NYQ,214.50379999999998,VendorB
+USGZKHQNCK68,MAS,Masco Corporation,Industrials,USD,NYQ,75.1339,VendorB
+USYMYQ0G7R11,KIM,Kimco Realty Corporation,Real Estate,USD,NYQ,23.654200000000003,VendorB
+USY1UZ1X11VV,ALGN,"Align Technology, Inc.",Healthcare,USD,NMS,213.1706,VendorB
+US10VTVNIWPY,DLTR,"Dollar Tree, Inc.",Consumer Defensive,USD,NMS,73.6694,VendorB
+US8GRI1UO8B8,EXPD,"Expeditors International of Washington, Inc.",Industrials,USD,NYQ,112.5948,VendorB
+USFMLU7365CK,EG,"Everest Group, Ltd.",Financial Services,USD,NYQ,360.2064,VendorB
+USALNOEOIO8F,MRNA,"Moderna, Inc.",Healthcare,USD,NMS,39.7839,VendorB
+US623WW90K4C,LNT,Alliant Energy Corporation,Utilities,USD,NMS,59.539500000000004,VendorB
+USSIT9KWPCI8,AVY,Avery Dennison Corporation,Consumer Cyclical,USD,NYQ,190.0113,VendorB
+USXLA2O1O1RT,BAX,Baxter International Inc.,Healthcare,USD,NYQ,29.795,VendorB
+US6QZN8OS2GU,TPR,"Tapestry, Inc.",Consumer Cyclical,USD,NYQ,64.79150000000001,VendorB
+USXINEPWEEIL,VTRS,Viatris Inc.,Healthcare,USD,NMS,12.645199999999999,VendorB
+USQ7YVX6Y48R,CF,"CF Industries Holdings, Inc.",Basic Materials,USD,NYQ,85.8298,VendorB
+USDIT9H6NZQ0,FFIV,"F5, Inc.",Technology,USD,NMS,254.7725,VendorB
+US4TK9YF4A40,DPZ,"Domino's Pizza, Inc.",Consumer Cyclical,USD,NYQ,430.4418,VendorB
+US2L3YKJWZCB,AKAM,"Akamai Technologies, Inc.",Technology,USD,NMS,96.8489,VendorB
+USAURL8ATDB7,RL,Ralph Lauren Corporation,Consumer Cyclical,USD,NYQ,232.5828,VendorB
+USYSKVIQFIF9,TXT,Textron Inc.,Industrials,USD,NYQ,77.6185,VendorB
+USW7FB0SCDQU,SWKS,"Skyworks Solutions, Inc.",Technology,USD,NMS,89.6375,VendorB
+USPDSBLZ285D,EVRG,"Evergy, Inc.",Utilities,USD,NMS,62.0443,VendorB
+USNUA2UQL4WI,EPAM,"EPAM Systems, Inc.",Technology,USD,NYQ,250.74259999999998,VendorB
+USXIZ20VETUE,DOC,"Healthpeak Properties, Inc.",Real Estate,USD,NYQ,20.3212,VendorB
+USG80UTLV6U2,APTV,Aptiv PLC,Consumer Cyclical,USD,NYQ,59.4486,VendorB
+USIZ5W2OV5XD,RVTY,"Revvity, Inc.",Healthcare,USD,NYQ,113.68560000000001,VendorB
+USG3MLFDONB8,AMCR,Amcor plc,Consumer Cyclical,USD,NYQ,9.494,VendorB
+USKJ281D5J02,REG,Regency Centers Corporation,Real Estate,USD,NMS,74.538,VendorB
+US5IJ1VW3Y4D,POOL,Pool Corporation,Industrials,USD,NMS,352.53040000000004,VendorB
+US57OXRA3H77,INCY,Incyte Corporation,Healthcare,USD,NMS,69.5284,VendorB
+USGB6ZA7295D,BXP,"BXP, Inc.",Real Estate,USD,NYQ,75.3864,VendorB
+USL8IFAS0Q61,KMX,"CarMax, Inc.",Consumer Cyclical,USD,NYQ,85.1127,VendorB
+USWT9ZOF6V15,CAG,"Conagra Brands, Inc.",Consumer Defensive,USD,NYQ,27.3811,VendorB
+USEYFGA6M181,HST,"Host Hotels & Resorts, Inc.",Real Estate,USD,NMS,18.381999999999998,VendorB
+USYFFBI5XTID,JKHY,"Jack Henry & Associates, Inc.",Technology,USD,NMS,178.50740000000002,VendorB
+USEK9R6QKZ1M,SWK,"Stanley Black & Decker, Inc.",Industrials,USD,NYQ,82.82000000000001,VendorB
+USMH3XGEBJXS,DVA,DaVita Inc.,Healthcare,USD,NYQ,153.36849999999998,VendorB
+USNTDOUVC39V,CPB,The Campbell's Company,Consumer Defensive,USD,NMS,41.915,VendorB
+US4DZJWO4D5G,CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,USD,NMS,105.38340000000001,VendorB
+USEP2Q6V9Q1F,JNPR,"Juniper Networks, Inc.",Technology,USD,NYQ,37.6124,VendorB
+USLTV5MRP1PI,CPT,Camden Property Trust,Real Estate,USD,NYQ,116.0591,VendorB
+US6SMRETB64G,TAP,Molson Coors Beverage Company,Consumer Defensive,USD,NYQ,59.933400000000006,VendorB
+USYK5FBGUKZX,NDSN,Nordson Corporation,Industrials,USD,NMS,211.82729999999998,VendorB
+USJPUE0T96DQ,PAYC,"Paycom Software, Inc.",Technology,USD,NYQ,209.3023,VendorB
+US8UA38U04FC,UHS,"Universal Health Services, Inc.",Healthcare,USD,NYQ,181.9111,VendorB
+US0L91NKC1FE,NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,USD,NYQ,27.179100000000002,VendorB
+US1RNN64G2FB,DAY,Dayforce Inc,Technology,USD,NYQ,75.58840000000001,VendorB
+USKJ5ZAW82Y1,SJM,The J. M. Smucker Company,Consumer Defensive,USD,NYQ,110.9889,VendorB
+USBA8NY2PD7N,TECH,Bio-Techne Corporation,Healthcare,USD,NMS,73.9017,VendorB
+USONNLO41NZW,SOLV,Solventum Corporation,Healthcare,USD,NYQ,67.4983,VendorB
+USLSOU1WT9K3,ALLE,Allegion plc,Industrials,USD,NYQ,133.5018,VendorB
+USI3ASR4POQR,BG,Bunge Global SA,Consumer Defensive,USD,NYQ,79.89099999999999,VendorB
+US0U764XNGDS,AIZ,"Assurant, Inc.",Financial Services,USD,NYQ,214.39270000000002,VendorB
+USQTFSMFKOZ4,IPG,"The Interpublic Group of Companies, Inc.",Communication Services,USD,NYQ,29.3607,VendorB
+USPU89PZUIEM,BEN,"Franklin Resources, Inc.",Financial Services,USD,NYQ,20.694899999999997,VendorB
+USXO22ZLAFYQ,EMN,Eastman Chemical Company,Basic Materials,USD,NYQ,92.67760000000001,VendorB
+US60W97ND6CV,ALB,Albemarle Corporation,Basic Materials,USD,NYQ,89.5365,VendorB
+US340GXF6TJ9,MGM,MGM Resorts International,Consumer Cyclical,USD,NYQ,34.501599999999996,VendorB
+US35WNLBVCHE,AOS,A. O. Smith Corporation,Industrials,USD,NYQ,69.4072,VendorB
+US6MP0GGRAK7,WYNN,"Wynn Resorts, Limited",Consumer Cyclical,USD,NMS,89.8395,VendorB
+US4Y3JR5ZRLI,PNW,Pinnacle West Capital Corporation,Utilities,USD,NYQ,85.80959999999999,VendorB
+USKRI081L2JS,ENPH,"Enphase Energy, Inc.",Technology,USD,NGM,72.1645,VendorB
+USU9QXP03W3V,LKQ,LKQ Corporation,Consumer Cyclical,USD,NMS,37.2488,VendorB
+US107O0CDRQU,FRT,Federal Realty Investment Trust,Real Estate,USD,NYQ,113.03920000000001,VendorB
+US8R7BQUGGXD,CRL,"Charles River Laboratories International, Inc.",Healthcare,USD,NYQ,187.6277,VendorB
+USGO7AUKKXTV,GNRC,Generac Holdings Inc.,Industrials,USD,NYQ,157.8226,VendorB
+US7LKW1OXJMA,AES,The AES Corporation,Utilities,USD,NYQ,13.13,VendorB
+US6BBTDDRLZ8,GL,Globe Life Inc.,Financial Services,USD,NYQ,110.4839,VendorB
+US736LJJ9IAT,LW,"Lamb Weston Holdings, Inc.",Consumer Defensive,USD,NYQ,62.7109,VendorB
+USCMUSTVD7T9,HSIC,"Henry Schein, Inc.",Healthcare,USD,NMS,70.5182,VendorB
+USHNCUHQEFXK,MKTX,MarketAxess Holdings Inc.,Financial Services,USD,NMS,232.4515,VendorB
+US0LGQWIZHN9,MTCH,"Match Group, Inc.",Communication Services,USD,NMS,34.0976,VendorB
+US7ANIO13EBA,TFX,Teleflex Incorporated,Healthcare,USD,NYQ,179.9416,VendorB
+USQT5M3NMTN7,WBA,"Walgreens Boots Alliance, Inc.",Healthcare,USD,NMS,9.6455,VendorB
+US5EF33RLLWJ,HAS,"Hasbro, Inc.",Consumer Cyclical,USD,NMS,58.1558,VendorB
+USX8E5A8ZWJD,IVZ,Invesco Ltd.,Financial Services,USD,NYQ,17.5033,VendorB
+USYEK4BNJ3B6,APA,APA Corporation,Energy,USD,NMS,21.2504,VendorB
+USH21SUQ87HY,MOS,The Mosaic Company,Basic Materials,USD,NYQ,24.3107,VendorB
+USVDRHIX86GZ,PARA,Paramount Global,Communication Services,USD,NMS,10.7666,VendorB
+US96NQ0YTL3W,MHK,"Mohawk Industries, Inc.",Consumer Cyclical,USD,NYQ,120.35159999999999,VendorB
+USXSIYB364J4,CE,Celanese Corporation,Basic Materials,USD,NYQ,68.9325,VendorB
+USNPKGFRARYU,HII,"Huntington Ingalls Industries, Inc.",Industrials,USD,NYQ,192.3545,VendorB
+US6JVM582OGO,CZR,"Caesars Entertainment, Inc.",Consumer Cyclical,USD,NMS,33.1482,VendorB
+US2ML49H7JB5,BWA,BorgWarner Inc.,Consumer Cyclical,USD,NYQ,32.1988,VendorB
+USUBXRXOMX4C,QRVO,"Qorvo, Inc.",Technology,USD,NMS,71.5585,VendorB
+USXAUOBRHPP7,FMC,FMC Corporation,Basic Materials,USD,NYQ,50.6515,VendorB
+USXO7A03YINF,AMTM,"Amentum Holdings, Inc.",Industrials,USD,NYQ,19.361700000000003,VendorB
