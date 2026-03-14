@@ -1,6 +1,7 @@
 import pandas as pd
-df = pd.read_csv(r"C:\Users\KODAVATH SHASHIKANTH\OneDrive\Desktop\Python\FileI\PROJECT\Data\sp500_companies.csv")
+df = pd.read_csv("place you file path here") ## if not working then use 
 
+# df = pd.read_csv(r"place you file path here")
 
 for c in df.columns:
     print(repr(c))
