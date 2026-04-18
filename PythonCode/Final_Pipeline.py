@@ -1,5 +1,5 @@
 import pandas as pd
-df = pd.read_csv("place you file path here") ## if not working then use 
+df = pd.read_csv("place your file or file path here") ## if not working then use 
 
 # df = pd.read_csv(r"place you file path here")
 
